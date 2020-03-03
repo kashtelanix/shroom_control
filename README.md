@@ -56,8 +56,8 @@ Links to buy most of the parts:
 - [USB charger](https://www.aliexpress.com/item/USB-Charger-Quick-Charge-3-0-Mobile-Phone-Charger-for-iPhone-Fast-Charger-Adapter-for-Huawei/32851875192.html)
 - [humidifier](https://www.aliexpress.com/item/Free-on-Mini-Portable-Donuts-USB-Air-Humidifier-Purifier-Aroma-Diffuser-Steam-For-Home/32866873486.html)
 
-Good luck! :D
+Good luck!
 
 ## TODO
-Create schematics and building tutorial.
-Add control for humidifier.
+- Create schematics and building tutorial.
+- Add control for humidifier.
