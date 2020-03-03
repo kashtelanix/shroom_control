@@ -2,15 +2,15 @@
 Cheap DIY automatic incubator for mushroom growing
 
 What it does:
--has two modes of action: incubation and fruiting
--keeps constant temperature   (21C for incubation, 25C for fruiting)
--fans out CO2 every 6 hours  (it's very quiet and the new air is filtered)
--displays temperature and humidity
--works well even for quite a large box
+- has two modes of action: incubation and fruiting
+- keeps constant temperature   (21C for incubation, 25C for fruiting)
+- fans out CO2 every 6 hours  (it's very quiet and the new air is filtered)
+- displays temperature and humidity
+- works well even for quite a large box
 
 So after laying out the substrate, only things you have to worry about are humidity and harvest :]
 
-Using a box with area 4300 cm2 I grew 100g of psilocibe cubensis in a single yield ^^
+Using a box with area 4300 cm2 I grew 100g of psilocibe cubensis in a single yield ^^ \
 https://www.youtube.com/watch?v=TaKD1Vdarnw
 
 ## Building
@@ -43,7 +43,7 @@ Parts:
 
 If you order from aliexpress you can get all parts for less than 20$ (not counting the box).
 
-Links to buy the parts:
+Links to buy most of the parts:
 - [box](https://www.ikea.com/us/en/cat/storage-boxes-baskets-10550/)
 - [box lid](https://www.ikea.com/us/en/p/samla-lid-for-box-15-34-gallon-clear-90110301/)
 - [arduino nano](https://www.aliexpress.com/item/1pcs-lot-Nano-3-0-controller-compatible-for-arduino-nano-CH340-USB-driver-NO-CABLE/32824272738.html)
