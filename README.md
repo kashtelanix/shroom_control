@@ -44,7 +44,7 @@ Parts:
 If you order from aliexpress you can get all parts for less than 20$ (not counting the box).
 
 Links to buy most of the parts:
-- [box](https://www.ikea.com/us/en/cat/storage-boxes-baskets-10550/)
+- [box](https://www.ikea.com/us/en/p/samla-box-clear-00130129/)
 - [box lid](https://www.ikea.com/us/en/p/samla-lid-for-box-15-34-gallon-clear-90110301/)
 - [arduino nano](https://www.aliexpress.com/item/1pcs-lot-Nano-3-0-controller-compatible-for-arduino-nano-CH340-USB-driver-NO-CABLE/32824272738.html)
 - [heating cable](https://www.aliexpress.com/item/Heating-Cable-230V-12MM-25W-M-65-C-With-Screen-Shield-Screening-And-Can-Use-In/32785315898.html)
